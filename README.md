@@ -1,8 +1,8 @@
 # ProShop eCommerce App
 
 > eCommerce platform built with the MERN stack.
-
-![screenshot](C:\Users\Abhishek\Pictures\Screenshots\Screenshot (254).png)
+> 
+![Screenshot (254)](https://user-images.githubusercontent.com/96475717/147317202-518adfd6-3545-4f56-84aa-e3c57715b76f.png)
 
 ## Features
 

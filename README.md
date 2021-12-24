@@ -2,7 +2,8 @@
 
 > eCommerce platform built with the MERN stack.
 > 
-![Screenshot (254)](https://user-images.githubusercontent.com/96475717/147317202-518adfd6-3545-4f56-84aa-e3c57715b76f.png)
+![Screenshot (254)](https://user-images.githubusercontent.com/96475717/147317867-04ad9da2-6480-416b-91c4-2f0721cea9a7.png)
+
 >products screen
 ![Screenshot (255)](https://user-images.githubusercontent.com/96475717/147317756-287c14e8-2473-45aa-9836-e36195686102.png)
 
